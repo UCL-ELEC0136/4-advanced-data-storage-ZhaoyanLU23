@@ -1,0 +1,13 @@
+numpy
+requests
+jupyter
+jupyterlab
+ipykernel
+pandas
+langchain==0.0.333 
+huggingface_hub 
+sentence_transformers
+openai == 0.28
+pinecone-client[grpc]
+pinecone_datasets==0.6.2
+tiktoken
